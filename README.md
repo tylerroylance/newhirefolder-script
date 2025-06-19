@@ -1,0 +1,1 @@
+# newhirefolder-script
